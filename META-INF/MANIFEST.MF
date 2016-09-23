@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: brianf
+Build-Jdk: 1.4.2_05
+Extension-Name: cewolfexample
+Implementation-Title: cewolfexample
+Implementation-Version: 1.0
+
